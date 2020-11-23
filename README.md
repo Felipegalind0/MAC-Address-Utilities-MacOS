@@ -27,10 +27,11 @@ cd MAC-Address-Utilities-MacOS
 ## 
 
 ## Credits:
-###Developed By:
+**Developed By:**
+
 * [Felipe Galindo](https://github.com/Felig2013)
 
-###Other:
+**Other:**
 * Built using [brotandgames](https://github.com/brotandgames)'s [bagcli](https://github.com/brotandgames/bagcli) as a template. 
 
 
